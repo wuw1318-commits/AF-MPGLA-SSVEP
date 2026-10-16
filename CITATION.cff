@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research implementation, cite this software release and the original method and dataset papers listed in README.md."
+type: software
+title: "AF and MP-GLA for offline cross-subject SSVEP decoding"
+authors:
+  - family-names: "wu"
+version: 0.1.0
+abstract: "A local research implementation and sensitivity audit of persistent source selection and mean-padded lag alignment in SS-iTRCA."
+keywords:
+  - EEG
+  - SSVEP
+  - TRCA
+  - source selection
+  - latency alignment

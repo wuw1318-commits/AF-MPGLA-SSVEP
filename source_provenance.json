@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "original_functions_AST_identical": true,
+  "files": [
+    {
+      "source_relative_path": "core.py",
+      "published_path": "src/core.py",
+      "original_sha256": "688d06a518c491a9967942ab29daab871bb260f32f31ace33955997f6bf900b4",
+      "release_sha256": "7629743a2a81c8143fbe21b09b821f3297a892a64e393bdf744f1ca9ad68e056",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 1
+    },
+    {
+      "source_relative_path": "run_sweep.py",
+      "published_path": "src/run_sweep.py",
+      "original_sha256": "0914603c576e3801fbccd4f73339e9d8068d0e56a9af7dfa69ec72eeecd914cd",
+      "release_sha256": "0914603c576e3801fbccd4f73339e9d8068d0e56a9af7dfa69ec72eeecd914cd",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 0
+    },
+    {
+      "source_relative_path": "gla/gla_alignment.py",
+      "published_path": "src/gla_alignment.py",
+      "original_sha256": "d1734d1653429d1e0069f17bd115a70a4f5c8a7467c9709900b0c94d0471d38d",
+      "release_sha256": "d1734d1653429d1e0069f17bd115a70a4f5c8a7467c9709900b0c94d0471d38d",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 0
+    },
+    {
+      "source_relative_path": "mp_gla/mean_padded_alignment.py",
+      "published_path": "src/mean_padded_alignment.py",
+      "original_sha256": "b02b2f74c90b97f978efe258fb1179f14f7c4aba63961c2a0432ad71fb796ff9",
+      "release_sha256": "b02b2f74c90b97f978efe258fb1179f14f7c4aba63961c2a0432ad71fb796ff9",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 0
+    },
+    {
+      "source_relative_path": "mpgla_af_timewindow/varlen_core.py",
+      "published_path": "src/varlen_core.py",
+      "original_sha256": "518e313c60d8ac683d77fb5ffe49b3341f6cf0896842c5886588cc70086d1644",
+      "release_sha256": "518e313c60d8ac683d77fb5ffe49b3341f6cf0896842c5886588cc70086d1644",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 0
+    },
+    {
+      "source_relative_path": "beta_baseline/beta_data.py",
+      "published_path": "src/beta_data.py",
+      "original_sha256": "b8b4f93f256a10e22ce00c0c1288b652b195c0540c126dc0fd2b29ba1369fd5e",
+      "release_sha256": "1ff0fe95a2b3ef854c7964153279933e22bb642120363f7a96af056189b1245d",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 1
+    },
+    {
+      "source_relative_path": "mpgla_af_xr_external/xr_data.py",
+      "published_path": "src/xr_data.py",
+      "original_sha256": "2ab042474a14650ddf30f5417fd65d754ca80d765e807a344a58a9e3136f0f5d",
+      "release_sha256": "ebfeafe1f5c89f872934abb4b6e497ca39601222b00122234032662e84b48255",
+      "changes": "data-path configuration only; mathematical function bodies checked separately",
+      "data_path_replacement_count": 2
+    }
+  ]
+}
